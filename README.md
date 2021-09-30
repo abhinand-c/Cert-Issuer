@@ -1,5 +1,5 @@
 # Cert Issuer
-
+A python package to issue certificates via email. Uses a base image as template and appends details from excel sheet and sends certificate as pdf to mail id provided in details.
 
 ----
 ## Instructions to run
